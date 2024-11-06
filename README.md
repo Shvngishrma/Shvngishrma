@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/shvngishrmaryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @Shvngishrma
 - 👀 I’m interested in coding, robotics, f1, chess, anime, violin, finance, art and good music. (im def forgetting lot of things :P)
