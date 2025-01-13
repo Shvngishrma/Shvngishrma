@@ -12,8 +12,8 @@
 - ⚡ Fun fact: I LOVE collecting stickers.
   
 <h3 align="left">Connect with me:</h3>
-
+<!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shvngishrma&show_icons=true&locale=en" alt="shvngishrma" /></p>
-
+---!>
 
 <!--- <p align="left"> <a href="https://twitter.com/gajeshnaik" target="blank"><img src="https://img.shields.io/twitter/follow/gajeshnaik?logo=twitter&style=for-the-badge" alt="gajeshnaik" /></a> </p>  will update this after setting up a proper social media page or smh? 11.11? ---!>
