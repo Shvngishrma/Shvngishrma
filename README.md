@@ -5,7 +5,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,expressjs,rust,py,java,cpp,npm,git,docker,vscode)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shvngishrma&label=Profile%20views&color=0e75b6&style=flat" alt="shvngishrma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shvngishrma&label=Profile%20views&color=0e75b6&style=flat" alt="shvngishrma" /> </p>
+
 <h3 align="left">Some discord stats: </h3>
 
 <div style="justify-content: center; flex-wrap: wrap; margin: 10px; display: flex;">
@@ -15,13 +16,7 @@
   <a href="https://api.statusbadges.me/openspotify/885441843754598422" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/885441843754598422" alt="spotify"></a>
   
 </div>
-<h3 align="left">Some stats about me on Github: </h3>
 
-<div style="justify-content: center; flex-wrap: wrap; margin: 10px; display: flex;">
-    <img src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=Shvngishrma&theme=radical">
-    <img src="https://github-stats-stef-00012.vercel.app/api?username=Shvngishrma&show_icons=true&theme=tokyonight">
-    <img src="https://github-stats-stef-00012.vercel.app/api/top-langs/?username=shvngishrma&theme=tokyonight">
-</div>
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shvngishrma&show_icons=true&locale=en" alt="shvngishrma" /></p>
 ---!>
